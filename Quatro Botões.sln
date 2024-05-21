@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quatro Botões", "Quatro Botões\Quatro Botões.csproj", "{03958B35-F609-4BF5-8827-38F2DB5565E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03958B35-F609-4BF5-8827-38F2DB5565E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03958B35-F609-4BF5-8827-38F2DB5565E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03958B35-F609-4BF5-8827-38F2DB5565E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03958B35-F609-4BF5-8827-38F2DB5565E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9D477A-C2C2-437D-B44D-042C37FAFA68}
+	EndGlobalSection
+EndGlobal
